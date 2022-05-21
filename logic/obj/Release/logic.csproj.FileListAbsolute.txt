@@ -1,0 +1,17 @@
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\logic.dll.config
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\logic.dll
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\logic.pdb
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\EntityFramework.dll
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\MvcEntity.dll
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\Newtonsoft.Json.dll
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\MvcEntity.pdb
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\MvcEntity.dll.config
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\EntityFramework.xml
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\andy\Desktop\Wouse\logic\bin\Release\Newtonsoft.Json.xml
+C:\Users\andy\Desktop\Wouse\logic\obj\Release\logic.csproj.AssemblyReference.cache
+C:\Users\andy\Desktop\Wouse\logic\obj\Release\logic.csproj.CoreCompileInputs.cache
+C:\Users\andy\Desktop\Wouse\logic\obj\Release\logic.csproj.CopyComplete
+C:\Users\andy\Desktop\Wouse\logic\obj\Release\logic.dll
+C:\Users\andy\Desktop\Wouse\logic\obj\Release\logic.pdb

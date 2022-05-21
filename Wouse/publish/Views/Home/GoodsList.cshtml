@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="~/Content/layui/css/layui.css" rel="stylesheet" />
+    <link href="~/Content/GoodsList/index.css" rel="stylesheet" />
+    <script type="text/javascript" src="~/Content/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="~/Content/layui/layui.js"></script>
+</head>
+
+<body>
+    <div id="list">
+        <div class="layui-inline">
+            <button onclick="btnAct('add')" type="button" class="layui-btn">新增商品</button>
+        </div>
+        <div class="layui-block" style="padding:15px 0;">
+            <div class="layui-inline">
+                <input class="layui-input" name="condition" id="searchCondition" autocomplete="off">
+            </div>
+            <button onclick="search()" type="button" class="layui-btn">搜索</button>
+        </div>
+        <table class="layui-hide" id="demo"></table>
+    </div>
+    <script type="text/html" id="btn">
+        <button onclick="btnAct('edit',{{d.ID}})" type="button" class="layui-btn layui-btn-xs">获利</button>
+        <button onclick="btnAct('edit',{{d.ID}})" type="button" class="layui-btn layui-btn-xs">编辑</button>
+        <button onclick="btnAct('del',{{d.ID}})" type="button" class="layui-btn layui-btn-danger layui-btn-xs">
+            删除
+        </button>
+    </script>
+    <script src="~/Content/GoodsList/index.js"></script>
+</body>

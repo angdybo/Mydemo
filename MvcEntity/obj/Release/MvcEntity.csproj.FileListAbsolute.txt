@@ -1,0 +1,14 @@
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\MvcEntity.dll.config
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\MvcEntity.dll
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\MvcEntity.pdb
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\EntityFramework.dll
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\EntityFramework.xml
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\andy\Desktop\Wouse\MvcEntity\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\andy\Desktop\Wouse\MvcEntity\obj\Release\MvcEntity.csproj.AssemblyReference.cache
+C:\Users\andy\Desktop\Wouse\MvcEntity\obj\Release\MvcEntity.csproj.CoreCompileInputs.cache
+C:\Users\andy\Desktop\Wouse\MvcEntity\obj\Release\MvcEntity.csproj.CopyComplete
+C:\Users\andy\Desktop\Wouse\MvcEntity\obj\Release\MvcEntity.dll
+C:\Users\andy\Desktop\Wouse\MvcEntity\obj\Release\MvcEntity.pdb
